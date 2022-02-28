@@ -17,7 +17,7 @@ The screenshots below depict the balanced accuracy score, precision and sensitiv
 ![3](https://user-images.githubusercontent.com/92958091/156005240-c9590619-10f1-4535-b25c-ca4b7ab584ef.png)
 
 - Combination (Over and Under) Sampling (SMOTEENN)
-![4](https://user-images.githubusercontent.com/92958091/156005408-2f5f6881-6fc0-436a-a45d-9f9e9d8a783a.png)
+ ![4](https://user-images.githubusercontent.com/92958091/156005408-2f5f6881-6fc0-436a-a45d-9f9e9d8a783a.png)
 
 - Balanced Random Forest Classifier
 ![5](https://user-images.githubusercontent.com/92958091/156005580-5c67b6d9-ed00-463c-817c-cd1ae5950528.png)
